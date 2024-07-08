@@ -1,0 +1,44 @@
+.body {
+    background-color: rgb(132, 14, 14);
+}
+
+.box1{
+    background-color: rgb(56, 171, 175);
+    
+    margin: 30%;
+    border-radius: 15px;
+    padding-left: 45px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+
+}
+
+label{
+    font-size:25px
+    
+}
+input{
+
+    background-color:rgb(179, 183, 225);
+    
+width: 175px; 
+height: 25px;
+border-radius: 10px;
+
+ 
+}
+
+button{
+background-color:rgb(89, 145, 125);
+height: 25px;
+padding-left: 10px;
+}
+input:hover {
+ background-color: rgb(255, 255, 255);
+}
+.box1:hover {
+    background-color: rgb(34, 122, 199);
+    width:  255px;
+    
+   }
+   
